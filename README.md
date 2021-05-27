@@ -51,7 +51,7 @@ The visualizations from this 2021 focused analysis aimed the answer the followin
 * Where are bike stations located?
 * What are the most popular starting and ending locations?
 
-![Deatiled_2021](Images/detail_2021png)
+![Detail_2021](Images/detail_2021.png)
 ![Most_Used](Images/mostused.png)
 
 **Analysis**
