@@ -64,6 +64,6 @@ From the above analysis the following was noted:
 * Most users do not provide their gender. 
 * Most of those who use this service are not subscribers so they may be visiting the city or using as needed for longer distances. 
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](<kristin.flores56@gmail.com>)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:kristin.flores56@gmail.com)
 
  
