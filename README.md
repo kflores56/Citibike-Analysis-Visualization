@@ -14,7 +14,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 We all know that COVID has impacted the way we work and our ability to provide services--Citi Bike is no different. This analysis provides a two-part overview that would allow leadership to determine how best to react to changes in ridership during an unprecedented event by focus first on a year over year comparison and focusing on the demographic of usage in the most current year. 
 
-This project uses Tableau to uncover trends in rider usage. All files for this project can be found [here](https://drive.google.com/drive/folders/1s2zBckzK5RqzzKSW-0h4mfeyZiAveguo?usp=sharing). 
+This project uses Tableau to uncover trends in rider usage. [All files for this project can be found here](https://drive.google.com/drive/folders/1s2zBckzK5RqzzKSW-0h4mfeyZiAveguo?usp=sharing). 
 
 ### Year Over Year Comparison (2019 - 2021)
 
